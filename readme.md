@@ -36,6 +36,7 @@ List of supported commands:
 **Example 2:** the `config John` argument
 
 `The username is John.`
+
 **Example 3:** the `config` argument
 
 `The username is John.`
